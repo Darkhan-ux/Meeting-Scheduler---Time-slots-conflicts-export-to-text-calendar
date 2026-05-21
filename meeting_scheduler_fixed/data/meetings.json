@@ -1,0 +1,14 @@
+[
+    {
+        "type": "offline",
+        "title": "sd",
+        "time_slot": {
+            "date": "2026-05-22",
+            "start_time": "12:00",
+            "end_time": "13:00"
+        },
+        "participants": [
+            "ali@gmail.com"
+        ]
+    }
+]
